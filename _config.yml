@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Dr. Sam Cruickshank"
   avatar           : "profile.png"
-  bio              : "Population Ecologist with specific interst in amphibian conservation and species population monitoring"
+  bio              : "Population Ecologist. Amphibian Conservation. Species Monitoring"
   location         : "Zurich, Switzerland"
-  employer         : "Swiss Federal Research Institute WSL"
+  employer         : ["Swiss Federal Research Institute WSL"](https://www.wsl.ch/)
   pubmed           : 
   googlescholar    : "https://scholar.google.ch/citations?user=ht6_3YQAAAAJ&hl=en"
   email            :
