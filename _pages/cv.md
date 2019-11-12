@@ -24,10 +24,12 @@ Research experience
   * Project: Predicting amphibian population dynamics from remote sensing-derived habitat quality
   * Supervisor: Dr. Ariel Bergamini
 
+
 * November - December 2018: Researcher
   * University of Zürich
   * Project: Comparisons of error rates for eDNA and traditional surveys for detecting amphibian occupancy
   * Supervisor: Dr. Benedikt Schmidt
+
 
 * January 2014 - September 2017: PhD Thesis
   * University of Zürich
@@ -36,23 +38,26 @@ Research experience
   * Supervisor: Dr. Benedikt Schmidt, Prof. Arpat Ozgul
   * Committee: Prof. Rolf Holderegger, Prof. Lukas Keller
   
+  
  * September 2012 - September 2013: Masters Thesis
-  * Imperial College London
-  * Zoological Society of London
-  * Project: Should the Leopard (frog) change it's spots: An investigation into factors associated with parasitism in the Northern Leopard Frog
-  * Supervisor: Prof. Trent Garner, Dr. David Orme
+   * Imperial College London
+   * Zoological Society of London
+   * Project: Should the Leopard (frog) change it's spots: An investigation into factors associated with parasitism in the Northern Leopard Frog
+   * Supervisor: Prof. Trent Garner, Dr. David Orme
+
 
  * September 2010 - June 2011: BSc Thesis
-  * University of Bath
-  * The Game & Wildlife Conservation Trust
-  * Project: Spatio-temporal invertebrate community dynamics in response tothe management of Calluna heathlan
-  * Supervisor: Dr. Mark O'Connell, Dr. Barbara Smith
+   * University of Bath
+   * The Game & Wildlife Conservation Trust
+   * Project: Spatio-temporal invertebrate community dynamics in response tothe management of Calluna heathlan
+   * Supervisor: Dr. Mark O'Connell, Dr. Barbara Smith
+
 
  * September 2009 - September 2010 Research Assistant
-  * The Game & Wildlife Conservation Trust
-  * Farmland Ecology Unit
-  * Duties: Designing and conducting field trials, invertebrate identification, data analysis
-  * Supervisor: Dr. John Holland, Dr. Barbara Smith
+   * The Game & Wildlife Conservation Trust
+   * Farmland Ecology Unit
+   * Duties: Designing and conducting field trials, invertebrate identification, data analysis
+   * Supervisor: Dr. John Holland, Dr. Barbara Smith
 
 
 
