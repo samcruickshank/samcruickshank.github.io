@@ -6,10 +6,10 @@ excerpt: #
 date: 2018-09-25
 venue: Nature Communications
 paperurl: 'https://doi.org/10.1038/s41467-018-06157-6'
-citation: 'Miller, D.A.W., Grant, E.H.C, Muths, E., Amburgey, S.M., Adams, M.J., Joseph, M.B., Waddle, J.H., Johnson, P.T. J., Ryan, M.E., Schmidt, B.R., Calhoun, D.L., Davis, C.L., Fisher, R.N., Green, D.M., Hossack, B.R., Rittenhouse, T.A.G., Walls, S.C., Bailey, L.L.,
-Cruickshank, S.S., Fellers, G.M., Gorman, T.A., Haas, C.A., Hughson, W., Pilliod, D.S., Price, S.J., Ray, A.M., Sadinski, W., Saenz, D., Barichivich, W.J., Brand, A., Brehme, C.S.,
-Dagit, R., Delaney, K.S., Glorioso, B.M., Kats, L.B., Kleeman, P.M., Pearl, C.A., Rochester, C.J., Riley, S.P.D., Roth, M., Sigafus, B.H. (2019). Quantifying climate sensitivity and climate-driven change in North American amphibian communities. <i>Nature Communications</i>. 9(1):3926'
+citation: 'Miller, D.A.W., Grant, E.H.C, Muths, E., Amburgey, S.M., Adams, M.J., Joseph, M.B., Waddle, J.H., Johnson, P.T. J., Ryan, M.E., Schmidt, B.R., Calhoun, D.L., Davis, C.L., Fisher, R.N., Green, D.M., Hossack, B.R., Rittenhouse, T.A.G., Walls, S.C., Bailey, L.L., Cruickshank, S.S., Fellers, G.M., Gorman, T.A., Haas, C.A., Hughson, W., Pilliod, D.S., Price, S.J., Ray, A.M., Sadinski, W., Saenz, D., Barichivich, W.J., Brand, A., Brehme, C.S., Dagit, R., Delaney, K.S., Glorioso, B.M., Kats, L.B., Kleeman, P.M., Pearl, C.A., Rochester, C.J., Riley, S.P.D., Roth, M., Sigafus, B.H. (2019). Quantifying climate sensitivity and climate-driven change in North American amphibian communities. <i>Nature Communications</i>. 9(1):3926'
 ---
+
+
 
 
 ### Abstract
