@@ -59,22 +59,6 @@ Research experience
    * Duties: Designing and conducting field trials, invertebrate identification, data analysis
    * Supervisor: Dr. John Holland, Dr. Barbara Smith
 
-
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
- 
-Reviewer for: Methods in Ecology and Evolution, Ecological Applications, Ecology and Evolution, Animal Conservation
- 
-Talks and Meetings
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Grants and Awards
 ======
   <ul>{% for post in site.teaching %}
@@ -85,3 +69,21 @@ Grants and Awards
 * 2016: Georges and Antoine Claraz Foundation Donation, Switzerland (CHF 770)
 * 2014: Artenschutz Foundation Research Grant , Germany (EUR 6,000)(with Dr. Jasmin Winkler)
 * 2013: Imperial College Fieldwork Travel Grant, UK (GBP 500)
+
+
+Presentations
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+ 
+### Reviewer for: Methods in Ecology and Evolution, Ecological Applications, Ecology and Evolution, Animal Conservation
+ 
+
+
