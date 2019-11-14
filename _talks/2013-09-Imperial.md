@@ -4,7 +4,7 @@ collection: talks
 type: "MSc Defense"
 permalink: /talks/2013-09-Imperial
 venue: "Department of Life Science, Imperial College London"
-date: 2013-09 
+date: 2013-09-06
 location: "Silwood Park, Sunningdale, UK"
 ---
 
