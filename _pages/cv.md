@@ -17,7 +17,7 @@ Education
 
 Research experience
 ======
-* May 2018 - present: Postdoctoral Researcher (0.5-0.8 FTE [average 0.63 FTE])
+* 2018 - present: Postdoctoral Researcher (0.5-0.8 FTE [average 0.63 FTE])
   * Swiss Federal Research Institute WSL
   * Research Group: Ecosystem Dynamics
   * Project: Making the most of monitoring data: A comprehensive analysis of amphibian breeding success across Switzerland, and what it can tell us about management and monitoring. 
@@ -25,13 +25,13 @@ Research experience
   * Supervisor: Dr. Ariel Bergamini
 
 
-* November - December 2018: Researcher
+* 2018: Researcher
   * University of Zürich
   * Project: Comparisons of error rates for eDNA and traditional surveys for detecting amphibian occupancy
   * Supervisor: Dr. Benedikt Schmidt
 
 
-* January 2014 - September 2017: PhD Thesis
+* 2014 - 2017: PhD Thesis
   * University of Zürich
   * Research Groups: Conservation Biology of Amphibians, Population Ecology 
   * Project: Dealing with uncertainty in amphibian and reptile population monitoring for conservation
@@ -39,21 +39,21 @@ Research experience
   * Committee: Prof. Rolf Holderegger, Prof. Lukas Keller
   
   
- * September 2012 - September 2013: Masters Thesis
+ * 2012 - 2013: Masters Thesis
    * Imperial College London
    * Zoological Society of London
    * Project: Should the Leopard (frog) change it's spots: An investigation into factors associated with parasitism in the Northern Leopard Frog
    * Supervisor: Prof. Trent Garner, Dr. David Orme
 
 
- * September 2010 - June 2011: BSc Thesis
+ * 2010 - 2011: BSc Thesis
    * University of Bath
    * The Game & Wildlife Conservation Trust
    * Project: Spatio-temporal invertebrate community dynamics in response tothe management of Calluna heathlan
    * Supervisor: Dr. Mark O'Connell, Dr. Barbara Smith
 
 
- * September 2009 - September 2010 Research Assistant
+ * 2009 - 2010 Research Assistant
    * The Game & Wildlife Conservation Trust
    * Farmland Ecology Unit
    * Duties: Designing and conducting field trials, invertebrate identification, data analysis
