@@ -6,7 +6,7 @@ excerpt: #
 date: 2019-03-22
 venue: Oikos
 paperurl: 'https://doi.org/10.1111/oik.06286'
-citation: 'Cayuela, H. , Cruickshank, S.S., Brandt, H., Ozgul, A. and Schmidt, B.R. (2019). Habitat-driven life history variation in an amphibian metapopulation <i>Oikos</i>. 128: 1265–1276'
+citation: 'Cayuela, H. , Cruickshank, S.S., Brandt, H., Ozgul, A. and Schmidt, B.R. (2019). Habitat-driven life history variation in an amphibian metapopulation. <i>Oikos</i>. 128: 1265–1276'
 ---
 
 

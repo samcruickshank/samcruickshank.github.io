@@ -6,7 +6,7 @@ excerpt: #
 date: 2017-08-01
 venue: Amphibia-Reptilia
 paperurl: 'https://doi.org/10.1163/15685381-00003112'
-citation: 'Cruickshank, S.S., and Schmidt, B.R. (2017). Error rates and variation between observers are reduced with the use of photographic matching software for capture-recapture studies <i>Amphibia-Reptilia</i>. 38(3): 315–325'
+citation: 'Cruickshank, S.S., and Schmidt, B.R. (2017). Error rates and variation between observers are reduced with the use of photographic matching software for capture-recapture studies. <i>Amphibia-Reptilia</i>. 38(3): 315–325'
 ---
 
 

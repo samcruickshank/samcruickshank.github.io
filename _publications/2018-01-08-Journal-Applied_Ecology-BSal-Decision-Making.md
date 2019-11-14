@@ -6,7 +6,7 @@ excerpt: #
 date: 2018-01-08
 venue: Journal of Applied Ecology
 paperurl: 'https://doi.org/10.1111/1365-2664.13089'
-citation: 'Canessa, S., Bozzuto, C., Grant, E.H.C, Cruickshank, S.S., Fisher, M.C., Koella, J.C., Lötters, S., Martel, A., Pasmans, F., Scheele, B.C., Spitzen-van der Sluijs, A., Steinfartz, S. and Schmidt, B.R. (2018). Decision-making for mitigating wildlife diseases: From theory to practice for an emerging fungal pathogen of amphibians <i>Journal of Applied Ecology</i>. 55(4): 1987–1996'
+citation: 'Canessa, S., Bozzuto, C., Grant, E.H.C, Cruickshank, S.S., Fisher, M.C., Koella, J.C., Lötters, S., Martel, A., Pasmans, F., Scheele, B.C., Spitzen-van der Sluijs, A., Steinfartz, S. and Schmidt, B.R. (2018). Decision-making for mitigating wildlife diseases: From theory to practice for an emerging fungal pathogen of amphibians. <i>Journal of Applied Ecology</i>. 55(4): 1987–1996'
 ---
 
 

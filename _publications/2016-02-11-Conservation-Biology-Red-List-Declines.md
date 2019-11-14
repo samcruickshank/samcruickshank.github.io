@@ -6,7 +6,7 @@ excerpt: #
 date: 2016-02-11
 venue: Conservation Biology
 paperurl: 'https://doi.org/10.1111/cobi.12688'
-citation: 'Cruickshank, S.S., Ozgul, A., Zumbach, S. and Schmidt, B.R. (2016). Quantifying population declines based on presence‐only records for red-list assessments <i>Conservation Biology</i>. 30(5): 1112–1121'
+citation: 'Cruickshank, S.S., Ozgul, A., Zumbach, S. and Schmidt, B.R. (2016). Quantifying population declines based on presence‐only records for red-list assessments. <i>Conservation Biology</i>. 30(5): 1112–1121'
 ---
 
 
