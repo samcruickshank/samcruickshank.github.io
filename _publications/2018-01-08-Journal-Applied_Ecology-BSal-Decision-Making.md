@@ -22,7 +22,7 @@ citation: 'Canessa, S., Bozzuto, C., Grant, E.H.C, Cruickshank, S.S., Fisher, M.
 
    4. Improving the survival of infected hosts is most likely to be detrimental as it increases the potential for pathogen transmission and spread. Active removal of a large proportion of the host population has some potential to locally eradicate Bsal and interrupt its spread, depending on the presence of Bsal reservoirs and on the host's spatial dynamics, which should therefore represent research priorities.
 
-   5. <i>Synthesis and applications</i>. Mitigation of Batrachochytrium salamandrivorans epidemics in susceptible host species is highly challenging, requiring effective interruption of transmission and radical removal of host individuals. More generally, our study illustrates the advantages of framing conservation science directly in the management decision context, rather than adapting to it a posteriori.
+   5. _Synthesis and applications_. Mitigation of Batrachochytrium salamandrivorans epidemics in susceptible host species is highly challenging, requiring effective interruption of transmission and radical removal of host individuals. More generally, our study illustrates the advantages of framing conservation science directly in the management decision context, rather than adapting to it a posteriori.
 
 
 [Download paper here](https://doi.org/10.1111/1365-2664.13089)
