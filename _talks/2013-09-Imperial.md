@@ -2,6 +2,7 @@
 title: "Should the (Leopard) frog change it's spots? An investigation of the factors involving parasitism in *Rana pipiens*"
 collection: talks
 type: "MSc Defense"
+excerpt: ''
 permalink: /talks/2013-09-06-Imperial
 venue: "Department of Life Science, Imperial College London"
 date: 2013-09-06
