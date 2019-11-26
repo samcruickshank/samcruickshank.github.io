@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2016-05-23-Scientific-Reports-Continental-Amphibian-Declines
 excerpt: ''
 date: 2016-05-23
-venue: Scientific Reports
+venue: 'Scientific Reports'
 paperurl: 'https://doi.org/10.1038/srep25625'
 citation: 'Grant, E.H.C., Miller, D.A.W., Schmidt, B.R., Adams, M.J., Amburgey, S.M., Chambert, T., Cruickshank, S.S., Fisher, R.N., Green, D.M., Hossack, B.R., Johnson, P.T.J., Joseph, M.B., Rittenhouse, T.A.G., Ryan, M.E., Waddle, J.H., Walls, S.C., Bailey, L.L., Fellers, G.M., Gorman, T.A., Ray, A.M., Pilliod, D.S., Price, S.J., Saenz, D., Sadinski, W., Muths, E. (2016). Quantitative evidence for the effects of multiple drivers on continental-scale amphibian declines. <i>Scientific Reports</i> 6:1–9.'
 ---
