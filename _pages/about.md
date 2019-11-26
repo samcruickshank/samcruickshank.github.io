@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am conservation biologist based in Switzerland, where I work as a postdoctoral researcher at the [Swiss Federal Research Institute WSL](www.wsl.ch).
+I am conservation biologist based in Switzerland, where I work as a postdoctoral researcher at the [Swiss Federal Research Institute WSL](https://www.wsl.ch).
 
 I have a wide range of experience in conservation projects and biodiversity research spanning 4 continents.
 
