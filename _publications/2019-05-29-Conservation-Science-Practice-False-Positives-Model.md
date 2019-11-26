@@ -2,9 +2,9 @@
 title: "Quantifying data quality in a citizen science monitoring program: False negatives, false positives and occupancy trends"
 collection: publications
 permalink: /publication/2019-05-29-Conservation-Science-Practice-False-Positives-Mode
-excerpt: #
+excerpt: ''
 date: 2019-05-29
-venue: Conservation Science and Practice
+venue: 'Conservation Science and Practice'
 paperurl: 'https://doi.org/10.1111/csp2.54'
 citation: 'Cruickshank, S.S., Bühler, C. and Schmidt, B.R. (2019). Quantifying data quality in a citizen science monitoring program: False negatives, false positives and occupancy trends.  <i>Conservation Science and Practice</i>. e54'
 ---
