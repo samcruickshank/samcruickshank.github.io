@@ -3,6 +3,7 @@ title: "Dealing with uncertainty in population monitoring for conservation"
 collection: talks
 type: "PhD Defense"
 permalink: /talks/2017-11-23-PhD-Defence
+excerpt: ''
 venue: "Department of Evolutionary Biology and Environmental Science, University of Zürich"
 date: 2017-11-23 
 location: "Zürich, Switzerland"
