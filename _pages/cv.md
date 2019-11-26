@@ -62,7 +62,7 @@ Research experience
 Other employment
 ======
  * 2012 Ecologist
-   * AECOM, Croyden, UK
+   * AECOM, Croydon, UK
    * Duties: species surveys, conducting amphibian and reptile translocations, ensuring contractor compliance wth environmental legislation on development sites
    
  * 2011 Field Ecologist
@@ -78,7 +78,7 @@ Grants and Awards
   
 * 2018: Federal Office for the Environment, Switzerland. (CHF 40,000) 
 * 2016: Georges and Antoine Claraz Foundation Donation, Switzerland (CHF 770)
-* 2014: Artenschutz Foundation Research Grant , Germany (EUR 6,000)(with Dr. Jasmin Winkler)
+* 2014: Artenschutz Foundation Research Grant , Germany (EUR 6,000)
 * 2013: Imperial College Fieldwork Travel Grant, UK (GBP 500)
 
 
