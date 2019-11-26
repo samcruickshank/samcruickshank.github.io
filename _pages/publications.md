@@ -7,6 +7,8 @@ author_profile: true
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  
+  If you have difficulties accessing any of these papers, feel free to send a quick email to me at sam.cruickshank [at] wsl.ch and I will be more than happy to send you a copy. 
 {% endif %}
 
 {% include base_path %}
