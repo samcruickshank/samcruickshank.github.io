@@ -49,7 +49,7 @@ Research experience
  * 2010 - 2011: BSc Thesis
    * University of Bath
    * The Game & Wildlife Conservation Trust
-   * Project: Spatio-temporal invertebrate community dynamics in response tothe management of Calluna heathlan
+   * Project: Spatio-temporal invertebrate community dynamics in response tothe management of Calluna heathland
    * Supervisor: Dr. Mark O'Connell, Dr. Barbara Smith
 
 
@@ -58,7 +58,18 @@ Research experience
    * Farmland Ecology Unit
    * Duties: Designing and conducting field trials, invertebrate identification, data analysis
    * Supervisor: Dr. John Holland, Dr. Barbara Smith
+   
+Other employment
+======
+ * 2012 Ecologist
+   * AECOM, Croyden, UK
+   * Duties: species surveys, conducting amphibian and reptile translocations, ensuring contractor compliance wth environmental legislation on development sites
+   
+ * 2011 Field Ecologist
+   * Aspect Ecology Ltd., Banbury, UK
+   * Duties: Species survey work, implementing species mitigation actions including species translocations
 
+ 
 Grants and Awards
 ======
   <ul>{% for post in site.teaching %}
