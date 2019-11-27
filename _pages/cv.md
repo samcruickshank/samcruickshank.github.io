@@ -17,7 +17,7 @@ Education
 
 Research experience
 ======
-* 2018 - present: Postdoctoral Researcher (0.5-0.8 FTE [average 0.63 FTE])
+* 2018 - present: Postdoctoral Researcher (working 50-80%)
   * Swiss Federal Research Institute WSL
   * Research Group: Ecosystem Dynamics
   * Project: Making the most of monitoring data: A comprehensive analysis of amphibian breeding success across Switzerland, and what it can tell us about management and monitoring. 

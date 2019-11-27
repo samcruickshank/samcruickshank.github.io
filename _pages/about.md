@@ -19,4 +19,4 @@ As such, my academic research mostly focusses upon developing and improving the 
 Since being astounded by the amazing diversity of species within the Amazon, I have had a particular interest in amphibian species, and they have been the focus of most of my conservation and research activities in the past decade. 
 
 
-**I am currently in search of a new position; either focussed on applied ecological research, or within a non-academic conservation oriented organisation.**
+**I am currently in search of a new position; I am interested in opportunities for ecological research, or within a non-academic conservation oriented organisation.**
