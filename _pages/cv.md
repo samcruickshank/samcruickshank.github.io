@@ -94,7 +94,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  
-### Reviewer for: Methods in Ecology and Evolution, Ecological Applications, Ecology and Evolution, Animal Conservation
+### Reviewer for: Journal of Applied Ecology, Methods in Ecology and Evolution, Ecological Applications, Ecology and Evolution, Animal Conservation, Herpetological Review, Population Ecology
  
-
+###  Associate Editor: The Herpetological Journal
 
